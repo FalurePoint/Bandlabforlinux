@@ -1,6 +1,0 @@
-This software comes with ABSOLUTELY NO WARRANTY!
-The source code is avalable at: https://github.com/the-real-millySAYhi/Protonmail-linux-client
-
-This software is also protected by the GPL-3.0 license to read the licence look in the working directory of this software for "licence.txt".
-
-
