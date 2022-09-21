@@ -33,7 +33,7 @@ print(legal)
 
 def WindowsIconPatch(): #this was added for ease of use while testing and writing the software cross-platform.
         if (System == "Windows"):
-            myappid = 'org.AlphaLinux.Bandlab' 
+            myappid = 'org.FailurePoint.Bandlab' 
             ctypes.windll.shell32.SetCurrentProcessExplicitAppUserModelID(myappid)
 
 
